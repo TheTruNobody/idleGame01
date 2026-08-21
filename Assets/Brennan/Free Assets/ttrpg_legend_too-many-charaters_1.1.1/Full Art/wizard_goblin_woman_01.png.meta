@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 4b8ec84219112fb408ab40ac935f5dfb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6149960213874857759
+    second: wizard_goblin_woman_01_0
+  - first:
+      213: 8326868539229618114
+    second: wizard_goblin_woman_01_1
+  - first:
+      213: -7715327692333725551
+    second: wizard_goblin_woman_01_2
+  - first:
+      213: 4896828433320803106
+    second: wizard_goblin_woman_01_3
+  - first:
+      213: -6541022286621919592
+    second: wizard_goblin_woman_01_4
+  - first:
+      213: 9041736467877736385
+    second: wizard_goblin_woman_01_5
+  - first:
+      213: -7982943693912541735
+    second: wizard_goblin_woman_01_6
+  - first:
+      213: -2890141652204945822
+    second: wizard_goblin_woman_01_7
+  - first:
+      213: -1601911586983506696
+    second: wizard_goblin_woman_01_8
+  - first:
+      213: -4003828665245447956
+    second: wizard_goblin_woman_01_9
+  - first:
+      213: 7497280975728975845
+    second: wizard_goblin_woman_01_10
+  - first:
+      213: -2733018164708223183
+    second: wizard_goblin_woman_01_11
+  - first:
+      213: 5939415917615345420
+    second: wizard_goblin_woman_01_12
+  - first:
+      213: 7069723747126076199
+    second: wizard_goblin_woman_01_13
+  - first:
+      213: -1898511422815994403
+    second: wizard_goblin_woman_01_14
+  - first:
+      213: 5972779278701855255
+    second: wizard_goblin_woman_01_15
+  - first:
+      213: -3800507891615184883
+    second: wizard_goblin_woman_01_16
+  - first:
+      213: -4000611059179322425
+    second: wizard_goblin_woman_01_17
+  - first:
+      213: -5899881532429923468
+    second: wizard_goblin_woman_01_18
+  - first:
+      213: 4085953468121583377
+    second: wizard_goblin_woman_01_19
+  - first:
+      213: 6398209669727933204
+    second: wizard_goblin_woman_01_20
+  - first:
+      213: 6370437839252306406
+    second: wizard_goblin_woman_01_21
+  - first:
+      213: 5479977347299893007
+    second: wizard_goblin_woman_01_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wizard_goblin_woman_01_0
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 3131
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17dbca0b3c095550800000000000000
+      internalID: 6149960213874857759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard_goblin_woman_01_1
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3137
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf382c91dafe8370800000000000000
+      internalID: 8326868539229618114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard_goblin_woman_01_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 3132
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198c6b46756ade490800000000000000
+      internalID: -7715327692333725551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard_goblin_woman_01_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3142
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b7e1ef38705f340800000000000000
+      internalID: 4896828433320803106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard_goblin_woman_01_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 25
+        width: 1978
+        height: 3104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896bcf9d2ee9935a0800000000000000
+      internalID: -6541022286621919592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard_goblin_woman_01_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 3123
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf2c809963ba7d70800000000000000
+      internalID: 9041736467877736385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard_goblin_woman_01_6
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 3127
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5f56e7103e63190800000000000000
+      internalID: -7982943693912541735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard_goblin_woman_01_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 3117
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e73cdda7724e7d0800000000000000
+      internalID: -2890141652204945822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard_goblin_woman_01_8
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 2610
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc044026edd4c9e0800000000000000
+      internalID: -1601911586983506696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard_goblin_woman_01_9
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 2614
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8c48aca0b8f68c0800000000000000
+      internalID: -4003828665245447956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard_goblin_woman_01_10
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 2553
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef9e9b3351bb0860800000000000000
+      internalID: 7497280975728975845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard_goblin_woman_01_11
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 2556
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13750e7957e521ad0800000000000000
+      internalID: -2733018164708223183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard_goblin_woman_01_12
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 2542
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f63c60f4b0d6250800000000000000
+      internalID: 5939415917615345420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard_goblin_woman_01_13
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 2533
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723e79f7a44bc1260800000000000000
+      internalID: 7069723747126076199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard_goblin_woman_01_14
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 2529
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddf7017be127a5e0800000000000000
+      internalID: -1898511422815994403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard_goblin_woman_01_15
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 2540
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71286dcdb1393e250800000000000000
+      internalID: 5972779278701855255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard_goblin_woman_01_16
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 2531
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0845326532e14bc0800000000000000
+      internalID: -3800507891615184883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard_goblin_woman_01_17
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 2496
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c30e151079fa78c0800000000000000
+      internalID: -4000611059179322425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard_goblin_woman_01_18
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 2505
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b80a251096f1ea0800000000000000
+      internalID: -5899881532429923468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard_goblin_woman_01_19
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 2513
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f892ce70934b830800000000000000
+      internalID: 4085953468121583377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard_goblin_woman_01_20
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 2490
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4135a92abc10bc850800000000000000
+      internalID: 6398209669727933204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard_goblin_woman_01_21
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e937587677586850800000000000000
+      internalID: 6370437839252306406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard_goblin_woman_01_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 123
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f5ffafc5acc0c40800000000000000
+      internalID: 5479977347299893007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wizard_goblin_woman_01_0: 6149960213874857759
+      wizard_goblin_woman_01_1: 8326868539229618114
+      wizard_goblin_woman_01_10: 7497280975728975845
+      wizard_goblin_woman_01_11: -2733018164708223183
+      wizard_goblin_woman_01_12: 5939415917615345420
+      wizard_goblin_woman_01_13: 7069723747126076199
+      wizard_goblin_woman_01_14: -1898511422815994403
+      wizard_goblin_woman_01_15: 5972779278701855255
+      wizard_goblin_woman_01_16: -3800507891615184883
+      wizard_goblin_woman_01_17: -4000611059179322425
+      wizard_goblin_woman_01_18: -5899881532429923468
+      wizard_goblin_woman_01_19: 4085953468121583377
+      wizard_goblin_woman_01_2: -7715327692333725551
+      wizard_goblin_woman_01_20: 6398209669727933204
+      wizard_goblin_woman_01_21: 6370437839252306406
+      wizard_goblin_woman_01_22: 5479977347299893007
+      wizard_goblin_woman_01_3: 4896828433320803106
+      wizard_goblin_woman_01_4: -6541022286621919592
+      wizard_goblin_woman_01_5: 9041736467877736385
+      wizard_goblin_woman_01_6: -7982943693912541735
+      wizard_goblin_woman_01_7: -2890141652204945822
+      wizard_goblin_woman_01_8: -1601911586983506696
+      wizard_goblin_woman_01_9: -4003828665245447956
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

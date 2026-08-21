@@ -1,0 +1,31 @@
+Version Change Log
+
+1.1.1 :
+	Adding 4 new artwork for pre-existing characters (with avatar and sticker)
+		resident_human_man_06_C
+		warrior_darkele_woman_02_D
+		warrior_ondin_woman_C
+		wizard_sylvan_boy_01_C
+
+1.1.0 : 
+	Combines TTRPG Legacy packs 6 through 9 into one pack.
+	Adding 6 New Characters (with avatar and sticker)
+		wizard_human_man_07 
+		wizard_goblin_woman_04
+		resident_ondin_woman_01
+		resident_darkelve_woman_04
+		resident_darkelve_woman_05
+		warrior_darkelve_man_02
+
+	Adding 7 new artwork for pre-existing characters (Old New artwork will be renamme with a Letter A to Z at the end) (with avatar and sticker)
+		wizard_sylvan_boy_01_B
+		warrior_ondin_woman_01_B
+		warrior_darkelve_woman_02_B
+		warrior_darkelve_woman_02_C
+		warrior_avian_man_01_B
+		resident_human_man_06_B
+		bard_human_man_01_B
+
+1.0.0 : Initial Release of the pack	
+	Combines TTRPG Legacy packs 1 through 5 into one pack.
+	Added Character who are incomplete, or poor quality, or outdated.

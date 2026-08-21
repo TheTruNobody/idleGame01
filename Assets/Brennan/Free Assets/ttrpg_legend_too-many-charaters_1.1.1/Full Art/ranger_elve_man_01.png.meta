@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 917dba5390909d549884d0e9697720cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -310893687453042427
+    second: ranger_elve_man_01_0
+  - first:
+      213: 2628215244250051876
+    second: ranger_elve_man_01_1
+  - first:
+      213: -8078774944607104219
+    second: ranger_elve_man_01_2
+  - first:
+      213: 3091452313963058687
+    second: ranger_elve_man_01_3
+  - first:
+      213: -6826383947130840566
+    second: ranger_elve_man_01_4
+  - first:
+      213: -6054011466634973543
+    second: ranger_elve_man_01_5
+  - first:
+      213: 673953924522104275
+    second: ranger_elve_man_01_6
+  - first:
+      213: 6519083220156328424
+    second: ranger_elve_man_01_7
+  - first:
+      213: -5526901197753195845
+    second: ranger_elve_man_01_8
+  - first:
+      213: 20021382143166329
+    second: ranger_elve_man_01_9
+  - first:
+      213: -5910017120600349307
+    second: ranger_elve_man_01_10
+  - first:
+      213: -6073667310000742470
+    second: ranger_elve_man_01_11
+  - first:
+      213: -7039713504355758793
+    second: ranger_elve_man_01_12
+  - first:
+      213: 4101288229708406618
+    second: ranger_elve_man_01_13
+  - first:
+      213: -7803886098746655965
+    second: ranger_elve_man_01_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ranger_elve_man_01_0
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 4356
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5093374a6db7fabf0800000000000000
+      internalID: -310893687453042427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranger_elve_man_01_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 4365
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4257acaf6db497420800000000000000
+      internalID: 2628215244250051876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranger_elve_man_01_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 4374
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5231e56bdfc62ef80800000000000000
+      internalID: -8078774944607104219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranger_elve_man_01_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 4375
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5d3d5108b07ea20800000000000000
+      internalID: 3091452313963058687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranger_elve_man_01_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 4372
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a56d2c7ffc341a0800000000000000
+      internalID: -6826383947130840566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranger_elve_man_01_5
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 4379
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ea41985a4dbfba0800000000000000
+      internalID: -6054011466634973543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranger_elve_man_01_6
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 4366
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5de1a068d5a5900800000000000000
+      internalID: 673953924522104275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranger_elve_man_01_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 4369
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9a0ae26af687a50800000000000000
+      internalID: 6519083220156328424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranger_elve_man_01_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 4375
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb26d37b4a08c43b0800000000000000
+      internalID: -5526901197753195845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranger_elve_man_01_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 36
+        width: 2140
+        height: 4335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9774e8a4751274000800000000000000
+      internalID: 20021382143166329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranger_elve_man_01_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 4356
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585a32ecdb66bfda0800000000000000
+      internalID: -5910017120600349307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranger_elve_man_01_11
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 4361
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfd08fd2cff5bba0800000000000000
+      internalID: -6073667310000742470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranger_elve_man_01_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 4367
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dca54add9ed4e90800000000000000
+      internalID: -7039713504355758793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranger_elve_man_01_13
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 4365
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f92455ae3bae830800000000000000
+      internalID: 4101288229708406618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranger_elve_man_01_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 4363
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bb890a0f603b390800000000000000
+      internalID: -7803886098746655965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ranger_elve_man_01_0: -310893687453042427
+      ranger_elve_man_01_1: 2628215244250051876
+      ranger_elve_man_01_10: -5910017120600349307
+      ranger_elve_man_01_11: -6073667310000742470
+      ranger_elve_man_01_12: -7039713504355758793
+      ranger_elve_man_01_13: 4101288229708406618
+      ranger_elve_man_01_14: -7803886098746655965
+      ranger_elve_man_01_2: -8078774944607104219
+      ranger_elve_man_01_3: 3091452313963058687
+      ranger_elve_man_01_4: -6826383947130840566
+      ranger_elve_man_01_5: -6054011466634973543
+      ranger_elve_man_01_6: 673953924522104275
+      ranger_elve_man_01_7: 6519083220156328424
+      ranger_elve_man_01_8: -5526901197753195845
+      ranger_elve_man_01_9: 20021382143166329
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
